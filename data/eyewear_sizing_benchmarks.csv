@@ -1,0 +1,6 @@
+face_category,face_width_temple_to_temple_mm,recommended_frame_width_hinge_to_hinge_mm,formula_rule,min_temple_length_mm,target_bridge_width_mm
+Small,121-128,126-138,Face Width + 5-10 mm,140,16-18
+Medium,129-134,134-144,Face Width + 5-10 mm,140-145,17-19
+Wide (Standard),135-144,140-154,Face Width + 5-10 mm,145-150,18-21
+Chubby Face (Full Cheeks),>139,Face Width + 5-10 mm (144-154),Face Width + 5-10 mm (prioritize shallow lens height & low-bridge clearance),145-150,16-18 (Low-Bridge fit)
+Extra Wide / Big Head,>145,150-165,Hat Size 7 3/4+ or Width >150 mm,150-155,19-24
