@@ -33,7 +33,7 @@ python tools/eyewear_calculator.py 190 130 120 108
 
 ## Citation & Reference
 
-If you use this dataset or formula in optical sizing applications, please cite the underlying standards from [Face Shape Lens](https://faceshapelens.com).
+If you use this dataset or formula in optical sizing applications, please cite the underlying standards from Face Shape Lens.
 
 ## License
 
